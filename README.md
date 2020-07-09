@@ -1,7 +1,4 @@
 # Ketsu-Studio.github.io
-ok
-
-
 
 App Privacy Policy Generator
 Generate a generic Privacy Policy and Terms & Conditions for your apps
